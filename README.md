@@ -10,7 +10,7 @@ I'm a passionate Software Engineer with a strong focus on Flutter Development.
 - 💼 Working as a Software Engineer with a focus on delivering seamless user experiences.
 - 🎯 Passionate about building clean, efficient, and scalable applications.
 - 📚 Always eager to learn new technologies, currently exploring FastAPI and improving my skills with Firebase.
-- 📄 Know about my experiences [LinkedIn]([URL](https://www.linkedin.com/in/dina-ahmed-3447a4240/))
+- 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/dina-ahmed-3447a4240/)
 - 📫 How to reach me denaahmed340@gmail.com
 
 
@@ -106,7 +106,8 @@ Feel free to check out my GitHub repositories for more of my Android projects an
 
 I'm always excited to connect with fellow Android developers and tech enthusiasts. You can reach me on:
 
-- [LinkedIn]([URL](https://www.linkedin.com/in/dina-ahmed-3447a4240/))
+- [LinkedIn](https://www.linkedin.com/in/dina-ahmed-3447a4240/)
+
 
 
 Feel free to drop me a message or connect with me on any of these platforms.
