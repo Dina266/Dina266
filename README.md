@@ -106,7 +106,7 @@ Feel free to check out my GitHub repositories for more of my Android projects an
 
 I'm always excited to connect with fellow Android developers and tech enthusiasts. You can reach me on:
 
-- [LinkedIn]((https://www.linkedin.com/in/dina-ahmed-3447a4240/))
+- [LinkedIn]([URL](https://www.linkedin.com/in/dina-ahmed-3447a4240/))
 
 
 Feel free to drop me a message or connect with me on any of these platforms.
