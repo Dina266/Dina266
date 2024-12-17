@@ -37,7 +37,7 @@ Feel free to check out my GitHub repositories for more of my Android projects an
 
 
 ## 📊 GitHub Stats
-<!-- GRS (Light Mode) -->
+<!-- GRS (Light Mode) 
 <a href="https://github.com/Dina266/">
   <table cellspacing="0" cellpadding="0">
     <tr>
@@ -58,7 +58,7 @@ Feel free to check out my GitHub repositories for more of my Android projects an
     </tr>
   </table>
 </a>
-
+-->
 <!-- GRS (Dark Mode) -->
 <a href="https://github.com/Dina266/">
   <table cellspacing="0" cellpadding="0">
@@ -82,6 +82,7 @@ Feel free to check out my GitHub repositories for more of my Android projects an
 </a>
 
 <!-- Streal stats (Light mode) -->
+<!--
 <div align="center">
   <a href="https://github.com/Dina266/">
     <img
@@ -90,9 +91,9 @@ Feel free to check out my GitHub repositories for more of my Android projects an
      />
   </a>
 </div>
+-->
 
-
-<!-- Streal stats (Dark mode) -->
+<!-- Streal stats (Dark mode) 
 <div align="center">
   <a href="https://github.com/Dina266/">
     <img
@@ -101,7 +102,7 @@ Feel free to check out my GitHub repositories for more of my Android projects an
      />
   </a>
 </div>
-
+-->
 ## 📫 Let's Connect
 
 I'm always excited to connect with fellow Android developers and tech enthusiasts. You can reach me on:
