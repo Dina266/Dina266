@@ -38,7 +38,7 @@ Feel free to check out my GitHub repositories for more of my Android projects an
 
 ## 📊 GitHub Stats
 <!-- GRS (Light Mode) -->
-<a href="https://github.com/qwerty541#gh-light-mode-only">
+<a href="https://github.com/Dina266/">
   <table cellspacing="0" cellpadding="0">
     <tr>
       <td style="border: 0;">
@@ -60,7 +60,7 @@ Feel free to check out my GitHub repositories for more of my Android projects an
 </a>
 
 <!-- GRS (Dark Mode) -->
-<a href="https://github.com/qwerty541#gh-dark-mode-only">
+<a href="https://github.com/Dina266/">
   <table cellspacing="0" cellpadding="0">
     <tr>
       <td style="border: 0;">
@@ -83,7 +83,7 @@ Feel free to check out my GitHub repositories for more of my Android projects an
 
 <!-- Streal stats (Light mode) -->
 <div align="center">
-  <a href="https://github.com/qwerty541#gh-light-mode-only">
+  <a href="https://github.com/Dina266/">
     <img
        src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=Dina266&locale=en&type=svg&hide_border=true&fire=2d77dc&ring=2d77dc&currStreakLabel=000000"
        alt="My GitHub streak stats"
@@ -94,7 +94,7 @@ Feel free to check out my GitHub repositories for more of my Android projects an
 
 <!-- Streal stats (Dark mode) -->
 <div align="center">
-  <a href="https://github.com/qwerty541#gh-dark-mode-only">
+  <a href="https://github.com/Dina266/">
     <img
        src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=Dina266&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&fire=2d77dc&ring=2d77dc&locale=en&type=svg&hide_border=true"
        alt="My GitHub streak stats"
