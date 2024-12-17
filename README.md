@@ -37,20 +37,20 @@ Feel free to check out my GitHub repositories for more of my Android projects an
 
 
 ## 📊 GitHub Stats
-<!-- GRS (Light Mode) 
+<!-- GRS (Light Mode) -->
 <a href="https://github.com/Dina266/">
   <table cellspacing="0" cellpadding="0">
     <tr>
       <td style="border: 0;">
           <img
-            src="https://github-readme-stats-steel-omega.vercel.app/api?username=KhaledElalfy1&show_icons=true&include_all_commits=true&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-light-mode-only"
+            src="https://github-readme-stats-steel-omega.vercel.app/api?username=Dina266&show_icons=true&include_all_commits=true&hide_border=true&number_format=long&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage#gh-light-mode-only"
             alt="My Github stats"
             height="370"
           />
       </td>
       <td style="border: 0;">
           <img
-            src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=KhaledElalfy1&layout=pie&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5#gh-light-mode-only"
+            src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=Dina266&layout=pie&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5#gh-light-mode-only"
             alt="My Language stats"
             width="280"
           />
@@ -58,7 +58,7 @@ Feel free to check out my GitHub repositories for more of my Android projects an
     </tr>
   </table>
 </a>
--->
+
 <!-- GRS (Dark Mode) -->
 <a href="https://github.com/Dina266/">
   <table cellspacing="0" cellpadding="0">
@@ -82,7 +82,7 @@ Feel free to check out my GitHub repositories for more of my Android projects an
 </a>
 
 <!-- Streal stats (Light mode) -->
-<!--
+<!---->
 <div align="center">
   <a href="https://github.com/Dina266/">
     <img
@@ -91,9 +91,9 @@ Feel free to check out my GitHub repositories for more of my Android projects an
      />
   </a>
 </div>
--->
 
-<!-- Streal stats (Dark mode) 
+
+<!-- Streal stats (Dark mode) -->
 <div align="center">
   <a href="https://github.com/Dina266/">
     <img
@@ -102,7 +102,7 @@ Feel free to check out my GitHub repositories for more of my Android projects an
      />
   </a>
 </div>
--->
+
 ## 📫 Let's Connect
 
 I'm always excited to connect with fellow Android developers and tech enthusiasts. You can reach me on:
