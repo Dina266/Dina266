@@ -124,6 +124,8 @@ Feel free to check out my GitHub repositories for more of my Android projects an
   </a>
 </div>
 
+[![wakatime](https://wakatime.com/badge/user/f9e11003-a0a2-42ca-9a78-1f5c3e72a71b.svg)](https://wakatime.com/@f9e11003-a0a2-42ca-9a78-1f5c3e72a71b)
+
 
 ## 📫 Let's Connect
 
